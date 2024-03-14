@@ -1,0 +1,71 @@
+C:\Users\megha\source\repos\RWDE UPLOADS\RWDE UPLOADS\bin\Debug\net8.0-windows\RWDE UPLOADS.exe
+C:\Users\megha\source\repos\RWDE UPLOADS\RWDE UPLOADS\bin\Debug\net8.0-windows\RWDE UPLOADS.deps.json
+C:\Users\megha\source\repos\RWDE UPLOADS\RWDE UPLOADS\bin\Debug\net8.0-windows\RWDE UPLOADS.runtimeconfig.json
+C:\Users\megha\source\repos\RWDE UPLOADS\RWDE UPLOADS\bin\Debug\net8.0-windows\RWDE UPLOADS.dll
+C:\Users\megha\source\repos\RWDE UPLOADS\RWDE UPLOADS\bin\Debug\net8.0-windows\RWDE UPLOADS.pdb
+C:\Users\megha\source\repos\RWDE UPLOADS\RWDE UPLOADS\bin\Debug\net8.0-windows\Azure.Core.dll
+C:\Users\megha\source\repos\RWDE UPLOADS\RWDE UPLOADS\bin\Debug\net8.0-windows\Azure.Identity.dll
+C:\Users\megha\source\repos\RWDE UPLOADS\RWDE UPLOADS\bin\Debug\net8.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\megha\source\repos\RWDE UPLOADS\RWDE UPLOADS\bin\Debug\net8.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\megha\source\repos\RWDE UPLOADS\RWDE UPLOADS\bin\Debug\net8.0-windows\Microsoft.Identity.Client.dll
+C:\Users\megha\source\repos\RWDE UPLOADS\RWDE UPLOADS\bin\Debug\net8.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\megha\source\repos\RWDE UPLOADS\RWDE UPLOADS\bin\Debug\net8.0-windows\Microsoft.Identity.Client.NativeInterop.dll
+C:\Users\megha\source\repos\RWDE UPLOADS\RWDE UPLOADS\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\megha\source\repos\RWDE UPLOADS\RWDE UPLOADS\bin\Debug\net8.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\megha\source\repos\RWDE UPLOADS\RWDE UPLOADS\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\megha\source\repos\RWDE UPLOADS\RWDE UPLOADS\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\megha\source\repos\RWDE UPLOADS\RWDE UPLOADS\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\megha\source\repos\RWDE UPLOADS\RWDE UPLOADS\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\megha\source\repos\RWDE UPLOADS\RWDE UPLOADS\bin\Debug\net8.0-windows\Microsoft.SqlServer.Server.dll
+C:\Users\megha\source\repos\RWDE UPLOADS\RWDE UPLOADS\bin\Debug\net8.0-windows\Microsoft.Web.WebView2.Core.dll
+C:\Users\megha\source\repos\RWDE UPLOADS\RWDE UPLOADS\bin\Debug\net8.0-windows\Microsoft.Web.WebView2.WinForms.dll
+C:\Users\megha\source\repos\RWDE UPLOADS\RWDE UPLOADS\bin\Debug\net8.0-windows\Microsoft.Web.WebView2.Wpf.dll
+C:\Users\megha\source\repos\RWDE UPLOADS\RWDE UPLOADS\bin\Debug\net8.0-windows\System.Configuration.ConfigurationManager.dll
+C:\Users\megha\source\repos\RWDE UPLOADS\RWDE UPLOADS\bin\Debug\net8.0-windows\System.Data.SqlClient.dll
+C:\Users\megha\source\repos\RWDE UPLOADS\RWDE UPLOADS\bin\Debug\net8.0-windows\System.Diagnostics.EventLog.dll
+C:\Users\megha\source\repos\RWDE UPLOADS\RWDE UPLOADS\bin\Debug\net8.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\megha\source\repos\RWDE UPLOADS\RWDE UPLOADS\bin\Debug\net8.0-windows\System.Memory.Data.dll
+C:\Users\megha\source\repos\RWDE UPLOADS\RWDE UPLOADS\bin\Debug\net8.0-windows\System.Runtime.Caching.dll
+C:\Users\megha\source\repos\RWDE UPLOADS\RWDE UPLOADS\bin\Debug\net8.0-windows\System.Security.Cryptography.ProtectedData.dll
+C:\Users\megha\source\repos\RWDE UPLOADS\RWDE UPLOADS\bin\Debug\net8.0-windows\de\Microsoft.Data.SqlClient.resources.dll
+C:\Users\megha\source\repos\RWDE UPLOADS\RWDE UPLOADS\bin\Debug\net8.0-windows\es\Microsoft.Data.SqlClient.resources.dll
+C:\Users\megha\source\repos\RWDE UPLOADS\RWDE UPLOADS\bin\Debug\net8.0-windows\fr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\megha\source\repos\RWDE UPLOADS\RWDE UPLOADS\bin\Debug\net8.0-windows\it\Microsoft.Data.SqlClient.resources.dll
+C:\Users\megha\source\repos\RWDE UPLOADS\RWDE UPLOADS\bin\Debug\net8.0-windows\ja\Microsoft.Data.SqlClient.resources.dll
+C:\Users\megha\source\repos\RWDE UPLOADS\RWDE UPLOADS\bin\Debug\net8.0-windows\ko\Microsoft.Data.SqlClient.resources.dll
+C:\Users\megha\source\repos\RWDE UPLOADS\RWDE UPLOADS\bin\Debug\net8.0-windows\pt-BR\Microsoft.Data.SqlClient.resources.dll
+C:\Users\megha\source\repos\RWDE UPLOADS\RWDE UPLOADS\bin\Debug\net8.0-windows\ru\Microsoft.Data.SqlClient.resources.dll
+C:\Users\megha\source\repos\RWDE UPLOADS\RWDE UPLOADS\bin\Debug\net8.0-windows\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+C:\Users\megha\source\repos\RWDE UPLOADS\RWDE UPLOADS\bin\Debug\net8.0-windows\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+C:\Users\megha\source\repos\RWDE UPLOADS\RWDE UPLOADS\bin\Debug\net8.0-windows\runtimes\unix\lib\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\megha\source\repos\RWDE UPLOADS\RWDE UPLOADS\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\megha\source\repos\RWDE UPLOADS\RWDE UPLOADS\bin\Debug\net8.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\megha\source\repos\RWDE UPLOADS\RWDE UPLOADS\bin\Debug\net8.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\megha\source\repos\RWDE UPLOADS\RWDE UPLOADS\bin\Debug\net8.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\megha\source\repos\RWDE UPLOADS\RWDE UPLOADS\bin\Debug\net8.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\megha\source\repos\RWDE UPLOADS\RWDE UPLOADS\bin\Debug\net8.0-windows\runtimes\win-arm64\native\msalruntime_arm64.dll
+C:\Users\megha\source\repos\RWDE UPLOADS\RWDE UPLOADS\bin\Debug\net8.0-windows\runtimes\win-x64\native\msalruntime.dll
+C:\Users\megha\source\repos\RWDE UPLOADS\RWDE UPLOADS\bin\Debug\net8.0-windows\runtimes\win-x86\native\msalruntime_x86.dll
+C:\Users\megha\source\repos\RWDE UPLOADS\RWDE UPLOADS\bin\Debug\net8.0-windows\runtimes\win-arm64\native\WebView2Loader.dll
+C:\Users\megha\source\repos\RWDE UPLOADS\RWDE UPLOADS\bin\Debug\net8.0-windows\runtimes\win-x64\native\WebView2Loader.dll
+C:\Users\megha\source\repos\RWDE UPLOADS\RWDE UPLOADS\bin\Debug\net8.0-windows\runtimes\win-x86\native\WebView2Loader.dll
+C:\Users\megha\source\repos\RWDE UPLOADS\RWDE UPLOADS\bin\Debug\net8.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\megha\source\repos\RWDE UPLOADS\RWDE UPLOADS\bin\Debug\net8.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\megha\source\repos\RWDE UPLOADS\RWDE UPLOADS\bin\Debug\net8.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\megha\source\repos\RWDE UPLOADS\RWDE UPLOADS\bin\Debug\net8.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\megha\source\repos\RWDE UPLOADS\RWDE UPLOADS\bin\Debug\net8.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\megha\source\repos\RWDE UPLOADS\RWDE UPLOADS\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Diagnostics.EventLog.dll
+C:\Users\megha\source\repos\RWDE UPLOADS\RWDE UPLOADS\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Runtime.Caching.dll
+C:\Users\megha\source\repos\RWDE UPLOADS\RWDE UPLOADS\obj\Debug\net8.0-windows\RWDE UPLOADS.csproj.AssemblyReference.cache
+C:\Users\megha\source\repos\RWDE UPLOADS\RWDE UPLOADS\obj\Debug\net8.0-windows\RWDE_UPLOADS.Form1.resources
+C:\Users\megha\source\repos\RWDE UPLOADS\RWDE UPLOADS\obj\Debug\net8.0-windows\RWDE UPLOADS.csproj.GenerateResource.cache
+C:\Users\megha\source\repos\RWDE UPLOADS\RWDE UPLOADS\obj\Debug\net8.0-windows\RWDE UPLOADS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\megha\source\repos\RWDE UPLOADS\RWDE UPLOADS\obj\Debug\net8.0-windows\RWDE UPLOADS.AssemblyInfoInputs.cache
+C:\Users\megha\source\repos\RWDE UPLOADS\RWDE UPLOADS\obj\Debug\net8.0-windows\RWDE UPLOADS.AssemblyInfo.cs
+C:\Users\megha\source\repos\RWDE UPLOADS\RWDE UPLOADS\obj\Debug\net8.0-windows\RWDE UPLOADS.csproj.CoreCompileInputs.cache
+C:\Users\megha\source\repos\RWDE UPLOADS\RWDE UPLOADS\obj\Debug\net8.0-windows\RWDE UPL.DF7743BF.Up2Date
+C:\Users\megha\source\repos\RWDE UPLOADS\RWDE UPLOADS\obj\Debug\net8.0-windows\RWDE UPLOADS.dll
+C:\Users\megha\source\repos\RWDE UPLOADS\RWDE UPLOADS\obj\Debug\net8.0-windows\refint\RWDE UPLOADS.dll
+C:\Users\megha\source\repos\RWDE UPLOADS\RWDE UPLOADS\obj\Debug\net8.0-windows\RWDE UPLOADS.pdb
+C:\Users\megha\source\repos\RWDE UPLOADS\RWDE UPLOADS\obj\Debug\net8.0-windows\RWDE UPLOADS.genruntimeconfig.cache
+C:\Users\megha\source\repos\RWDE UPLOADS\RWDE UPLOADS\obj\Debug\net8.0-windows\ref\RWDE UPLOADS.dll
